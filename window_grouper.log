@@ -1,0 +1,61 @@
+2025-10-04 13:37:44,486 - INFO - Application started. Drag a window over it to group.
+2025-10-04 13:37:49,842 - INFO - Dragging window: 'Lanzador de Agrupador de Ventanas' (handle: 1251458)
+2025-10-04 13:37:52,808 - INFO - Request to create a new group window.
+2025-10-04 13:37:52,808 - INFO - Command for new window sent.
+2025-10-04 13:37:53,445 - INFO - Application started. Drag a window over it to group.
+2025-10-04 13:38:05,308 - INFO - Dragging window: '' (handle: 198180)
+2025-10-04 13:38:05,341 - INFO - Dragging window: '' (handle: 198180)
+2025-10-04 13:38:06,775 - INFO - Dragging window: '' (handle: 198180)
+2025-10-04 13:38:06,806 - INFO - Dragging window: '' (handle: 198180)
+2025-10-04 13:38:08,314 - INFO - Dragging window: 'Documento3 - Word' (handle: 1054172)
+2025-10-04 13:38:08,344 - INFO - Dragging window: 'Documento3 - Word' (handle: 1054172)
+2025-10-04 13:38:09,494 - INFO - Dragging window: 'Documento3 - Word' (handle: 1054172)
+2025-10-04 13:38:09,525 - INFO - Dragging window: 'Documento3 - Word' (handle: 1054172)
+2025-10-04 13:38:10,557 - INFO - Dragging window: 'Documento3 - Word' (handle: 1054172)
+2025-10-04 13:38:10,589 - INFO - Dragging window: 'Documento3 - Word' (handle: 1054172)
+2025-10-04 13:38:12,403 - INFO - Dragging window: 'Documento5 - Word' (handle: 464790)
+2025-10-04 13:38:12,442 - INFO - Dragging window: 'Documento5 - Word' (handle: 464790)
+2025-10-04 13:38:13,025 - INFO - Grouping window: 'Documento5 - Word'
+2025-10-04 13:38:13,057 - INFO - Grouping window: 'Documento5 - Word'
+2025-10-04 13:38:13,532 - INFO - Window 'Documento5 - Word' grouped successfully.
+2025-10-04 13:38:13,535 - INFO - Window 'Documento5 - Word' grouped successfully.
+2025-10-04 13:38:16,088 - INFO - Dragging window: 'Documento3 - Word' (handle: 1054172)
+2025-10-04 13:38:16,130 - INFO - Dragging window: 'Documento3 - Word' (handle: 1054172)
+2025-10-04 13:38:19,598 - INFO - Restoring 'Documento5 - Word' (temporary title: 'RESTORING... Documento5 - Word')
+2025-10-04 13:38:19,965 - INFO - Title restored to 'Documento5 - Word'
+2025-10-04 13:38:21,212 - INFO - Dragging window: 'Documento5 - Word' (handle: 464790)
+2025-10-04 13:38:23,091 - INFO - Grouping window: 'Documento5 - Word'
+2025-10-04 13:38:23,400 - INFO - Window 'Documento5 - Word' grouped successfully.
+2025-10-04 13:38:24,607 - INFO - Restoring 'Documento5 - Word' (temporary title: 'RESTORING... Documento5 - Word')
+2025-10-04 13:38:24,973 - INFO - Title restored to 'Documento5 - Word'
+2025-10-04 13:38:26,367 - INFO - Restoring 'Documento5 - Word' (temporary title: 'RESTORING... Documento5 - Word')
+2025-10-04 13:38:26,718 - INFO - Title restored to 'Documento5 - Word'
+2025-10-04 13:38:27,964 - INFO - Dragging window: 'Documento5 - Word' (handle: 464790)
+2025-10-04 13:38:27,999 - INFO - Dragging window: 'Documento5 - Word' (handle: 464790)
+2025-10-04 13:38:28,812 - INFO - Grouping window: 'Documento5 - Word'
+2025-10-04 13:38:29,107 - INFO - Window 'Documento5 - Word' grouped successfully.
+2025-10-04 13:38:36,191 - INFO - Dragging window: 'Documento6 - Word' (handle: 31199752)
+2025-10-04 13:38:36,213 - INFO - Dragging window: 'Documento6 - Word' (handle: 31199752)
+2025-10-04 13:38:37,026 - INFO - Grouping window: 'Documento6 - Word'
+2025-10-04 13:38:37,207 - INFO - Window 'Documento6 - Word' grouped successfully.
+2025-10-04 13:38:41,684 - INFO - Dragging window: 'Documento7 - Word' (handle: 30808342)
+2025-10-04 13:38:41,713 - INFO - Dragging window: 'Documento7 - Word' (handle: 30808342)
+2025-10-04 13:38:42,524 - INFO - Grouping window: 'Documento7 - Word'
+2025-10-04 13:38:42,657 - INFO - Window 'Documento7 - Word' grouped successfully.
+2025-10-04 13:38:45,807 - INFO - Dragging window: 'python' (handle: 33887576)
+2025-10-04 13:38:48,749 - INFO - Dragging window: 'python' (handle: 33887576)
+2025-10-04 13:38:51,781 - INFO - Dragging window: 'Lanzador de Agrupador de Ventanas' (handle: 1251458)
+2025-10-04 13:38:51,806 - INFO - Dragging window: 'Lanzador de Agrupador de Ventanas' (handle: 1251458)
+2025-10-04 13:38:54,375 - INFO - Closing application and restoring all windows...
+2025-10-04 13:38:54,376 - INFO - Changing title to 'RESTORING... Window Grouper' to prevent being 'stolen'.
+2025-10-04 13:38:54,593 - INFO - Restoring 'Documento5 - Word' (temporary title: 'RESTORING... Documento5 - Word')
+2025-10-04 13:38:55,016 - INFO - Title restored to 'Documento5 - Word'
+2025-10-04 13:39:00,087 - INFO - Dragging window: 'Documento5 - Word' (handle: 464790)
+2025-10-04 13:39:01,243 - INFO - Restoring 'Documento6 - Word' (temporary title: 'RESTORING... Documento6 - Word')
+2025-10-04 13:39:01,651 - INFO - Title restored to 'Documento6 - Word'
+2025-10-04 13:39:02,556 - INFO - Restoring 'Documento7 - Word' (temporary title: 'RESTORING... Documento7 - Word')
+2025-10-04 13:39:03,005 - INFO - Title restored to 'Documento7 - Word'
+2025-10-04 13:39:04,340 - INFO - Dragging window: 'Documento7 - Word' (handle: 30808342)
+2025-10-04 13:39:04,971 - INFO - Dragging window: 'Documento6 - Word' (handle: 31199752)
+2025-10-04 13:39:10,043 - INFO - Closing application and restoring all windows...
+2025-10-04 13:39:10,044 - INFO - Changing title to 'RESTORING... Window Grouper' to prevent being 'stolen'.
